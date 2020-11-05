@@ -42,17 +42,17 @@ class Animal(ABC):
 class Perro(Animal):
     pass
 
-class Gato(Animail):
+class Gato(Animal):
     pass
 
 class Owner():
     def __init__(self, nombre):
-        self.__name__ = name
+        self.__name__ = nombre
 
-    def set_name(self):
-        self.__name__ = name
+    def set_name(self, nombre):
+        self.__name__ = nombre
 
-    def get_name(self, name):
-        return self.__name__ = name
+    def get_name(self):
+        return self.__name__
 
 

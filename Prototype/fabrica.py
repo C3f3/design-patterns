@@ -14,9 +14,9 @@ class Creador():
         self.__perro.set_descripcion("Perrito destroza patios")
         self.__perro.set_nombre("Flow")
 
-        def clonacion_animal(self, tipo_animal):
+    def clonacion_animal(self, tipo_animal):
             if "Gato" == tipo_animal:
-                return self.__perro.clone()
+                return self.__gato.clone()
             elif "Perro" == tipo_animal:
                 return self.__perro.clone()
             return None

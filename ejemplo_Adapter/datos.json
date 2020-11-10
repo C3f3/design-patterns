@@ -1,0 +1,6 @@
+{
+    "nombre": "Juanito",
+    "apellido": "Perez",
+    "lenguajes": ["Javascript", "HTML", "CSS"],
+    "framework": ["node.js"]
+}

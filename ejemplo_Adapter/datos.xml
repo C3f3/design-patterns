@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleado>
+    <nombre>Juan</nombre>
+    <apellido>Perez</apellido>
+    <lenguajes name="SQL">PL-SQL</lenguajes>
+    <lenguajes name="Javascript">Node.js</lenguajes>
+    <lenguajes name="Shell Script">Bash</lenguajes>
+</empleado>
